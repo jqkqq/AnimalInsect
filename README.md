@@ -1,9 +1,11 @@
 # AnimalInsect
-練習swiftUI
+練習swiftUI    
 
-使用
-1.switUI
-2.combine
-3.MVVM
-4.swift Package
+動森蟲圖鑑  
+
+使用  
+1.switUI  
+2.combine  
+3.MVVM  
+4.swift Package  
 5.CoreData
