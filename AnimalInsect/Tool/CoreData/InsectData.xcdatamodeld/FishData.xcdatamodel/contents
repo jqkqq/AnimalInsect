@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="InsectData" representedClassName="InsectData" syncable="YES" codeGenerationType="class">
+        <attribute name="iconURI" optional="YES" attributeType="String"/>
+        <attribute name="imageURI" optional="YES" attributeType="String"/>
+        <attribute name="location" optional="YES" attributeType="String"/>
+        <attribute name="monthArrayNorthern" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+        <attribute name="monthArraySouthern" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="price" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="rarity" optional="YES" attributeType="String"/>
+        <attribute name="timeArray" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+    </entity>
+    <elements>
+        <element name="InsectData" positionX="-63" positionY="-18" width="128" height="178"/>
+    </elements>
+</model>
